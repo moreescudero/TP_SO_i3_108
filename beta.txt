@@ -145,3 +145,22 @@ Adaptador de Ethernet Ethernet:
    M�scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::1%9
                                        192.168.100.1
+
+Nombre: Ezequiel
+Apellido: Vallejos
+Hora: 18:03:12,10
+
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2803:9800:9018:4a3a:abab:39c7:34af:90ef
+   Direcci¢n IPv6 temporal. . . . . . : 2803:9800:9018:4a3a:50e5:f552:ed59:aa85
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::78d3:c4b4:208d:b3f2%9
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.161.121.142
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%9
+                                       192.168.100.1
