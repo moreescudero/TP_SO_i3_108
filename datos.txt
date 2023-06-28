@@ -1,3 +1,7 @@
 Nombre: Ezequiel Vallejos Lugo
 Dirección IPv4: 192.168.0.7
 La hora actual es: 23:47:01,89
+
+Nombre: Joaquin Avallone
+Dirección IP: 192.128.0.5
+La hora actual es: 15:00:30,10
