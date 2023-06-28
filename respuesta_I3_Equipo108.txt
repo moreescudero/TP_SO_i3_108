@@ -1,0 +1,33 @@
+Integrantes: 
+Avallone, Joaco
+Escudero, Morena 
+Vallejos Lugo, Ezequiel
+
+A- Después de los cambios realizados el main queda con los mismos archivos que las ramas Escudero y Avallone
+B- Sí
+C- Debí realizar los comandos:
+git pull 
+git fetch
+git rebase origin/main
+git checkout main 
+git pull origin main
+git merge Avallone 
+git push
+D- no
+E- ninguno
+F- 
+git pull
+git checkout Escudero
+nano beta.txt
+ipconfig >> beta.txt
+git add .
+git commit -m "Gamma datos"
+git push
+G-
+git pull
+git checkout Escudero
+nano beta.txt
+ipconfig >> beta.txt
+git add .
+git commit -m "Alfa datos"
+git push
